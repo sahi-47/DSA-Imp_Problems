@@ -1,14 +1,18 @@
-🌳 Binary Tree — DSA Notes
+# 🌳 Binary Tree — DSA Notes
 
-1. What is a Binary Tree?
-   ├── Definition
-   ├── Left Child
-   └── Right Child
+## 1. What is a Binary Tree?
 
-2. Basic Terminology
-   ┌──────────┬────────────────────────────┐
-   │ Term     │ Meaning                    │
-   ├──────────┼────────────────────────────┤
-   │ Root     │ Topmost node               │
-   │ Parent   │ Node having child nodes    │
-   └──────────┴────────────────────────────┘
+A **Binary Tree** is a tree data structure where each node can have
+**at most two children**:
+
+- Left Child
+- Right Child
+
+### Example
+
+```text
+        1
+       / \
+      2   3
+     / \
+    4   5
