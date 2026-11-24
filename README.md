@@ -20,4 +20,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahi-47/DSA-Imp_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/sahi-47/DSA-Imp_Problems/tree/master/0876-middle-of-the-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sahi-47/DSA-Imp_Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
